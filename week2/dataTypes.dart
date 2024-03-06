@@ -11,5 +11,4 @@ void main(){
   print("$name is student number $id, is $height cm tall, and takes the subjects $subjects.");
   print("Active student: $isStudent");
   print("$name's scores in the last examinations: $marks");
-
 } 
