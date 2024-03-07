@@ -41,5 +41,13 @@ void main(){
 
   print("The product is $product");
   print("The quotient is $quotient");
+
+  // string length
+  String inStr = "Hey, How're you?";
+  print(stringLength(inStr));
 }
 
+// task 5
+ int stringLength(String inputString) {
+  return inputString.length;
+}
