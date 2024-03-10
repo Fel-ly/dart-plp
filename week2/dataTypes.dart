@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main(){
   int id = 1001;    // declares the id integer value
   String name = "Zawadi";   //delaring the name variable
